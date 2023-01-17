@@ -66,11 +66,9 @@ li{
 }
 .nav__logo{
     font-size: 2rem;
-    color: var(--white);
+    color: silver;
 }
-.nav__logo span{
-    color: var(--amarillo);
-}
+
 .nav__list{
     display: flex;
     align-items: center;
